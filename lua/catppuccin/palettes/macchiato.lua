@@ -12,7 +12,7 @@ return {
 	sky = "#91d7e3",
 	sapphire = "#7dc4e4",
 	blue = "#FFBFD7", -- currently a light pink
-	lavender = "#b7bdf8",
+	lavender = "#E590B1",
 	text = "#cad3f5",
 	subtext1 = "#b8c0e0",
 	subtext0 = "#a5adcb",
@@ -23,6 +23,6 @@ return {
 	surface1 = "#494d64",
 	surface0 = "#363a4f",
 	base = "#2A2E37",
-	mantle = "#FF2B7C", -- currently a Pink colour
+	mantle = "#330818", -- currently a Dark Burgandy colour
 	crust = "#2A2E37",
 }
