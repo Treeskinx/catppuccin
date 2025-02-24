@@ -18,7 +18,7 @@ return {
 	subtext0 = "#a5adcb",
 	overlay2 = "#FF2B7C", -- currently a scarlett
 	overlay1 = "#8087a2",
-	overlay0 = "#6e738d",
+	overlay0 = "#4C0C25", -- Trying dark burgandy for code border
 	surface2 = "#661131", -- another dark lighter though burgandy
 	surface1 = "#494d64",
 	surface0 = "#363a4f",
