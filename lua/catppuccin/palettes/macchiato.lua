@@ -6,8 +6,8 @@ return {
 	red = "#ed8796",
 	maroon = "#ee99a0",
 	peach = "#f5a97f",
-	yellow = "#eed49f",
-	green = "#939ab7", -- currently a blue grey
+	yellow = "#939ab7", -- currently a blue grey
+	green = "#FFE9F1", -- currently super light pink
 	teal = "#8bd5ca",
 	sky = "#91d7e3",
 	sapphire = "#7dc4e4",
