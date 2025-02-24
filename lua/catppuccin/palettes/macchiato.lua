@@ -19,7 +19,7 @@ return {
 	overlay2 = "#FF2B7C", -- currently a scarlett
 	overlay1 = "#8087a2",
 	overlay0 = "#6e738d",
-	surface2 = "#661131",
+	surface2 = "#661131", -- another dark lighter though burgandy
 	surface1 = "#494d64",
 	surface0 = "#363a4f",
 	base = "#2A2E37",
