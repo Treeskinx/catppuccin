@@ -19,10 +19,10 @@ return {
 	overlay2 = "#939ab7",
 	overlay1 = "#8087a2",
 	overlay0 = "#6e738d",
-	surface2 = "#5b6078",
+	surface2 = "#661131",
 	surface1 = "#494d64",
 	surface0 = "#363a4f",
 	base = "#2A2E37",
 	mantle = "#1e2030",
-	crust = "#181926",
+	crust = "#2A2E37",
 }
