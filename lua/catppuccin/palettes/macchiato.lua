@@ -7,7 +7,7 @@ return {
 	maroon = "#ee99a0",
 	peach = "#f5a97f",
 	yellow = "#eed49f",
-	green = "#a6da95",
+	green = "#ff2b7c",
 	teal = "#8bd5ca",
 	sky = "#91d7e3",
 	sapphire = "#7dc4e4",
@@ -22,7 +22,7 @@ return {
 	surface2 = "#5b6078",
 	surface1 = "#494d64",
 	surface0 = "#363a4f",
-	base = "#24273a",
+	base = "#2A2E37",
 	mantle = "#1e2030",
 	crust = "#181926",
 }
