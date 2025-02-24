@@ -13,8 +13,8 @@ return {
 	sapphire = "#7dc4e4",
 	blue = "#FFBFD7", -- currently a light pink
 	lavender = "#E590B1",
-	text = "#cad3f5",
-	subtext1 = "#B1E590", -- currently a greeny colour
+	text = "#B1E590", -- currently in green colour I guess.
+	subtext1 = "#b8c0e0",
 	subtext0 = "#a5adcb",
 	overlay2 = "#939ab7",
 	overlay1 = "#8087a2",
