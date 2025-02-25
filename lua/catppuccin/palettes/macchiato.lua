@@ -20,9 +20,9 @@ return {
 	overlay1 = "#8087a2",
 	overlay0 = "#6e738d",
 	surface2 = "#661131", -- another dark lighter though burgandy
-	surface1 = "#33273B", -- Dark Purple for nvim split panel bg
+	surface1 = "#494d64",
 	surface0 = "#4C0C25", -- trying darkish burgandy for code border
-	base = "#2A2E37",
+	base = "#9021242C", -- backround for splits
 	mantle = "#330818", -- currently a Dark Burgandy colour
 	crust = "#21242C", -- currently a Dark Black/Grey
 }
