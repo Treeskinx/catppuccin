@@ -20,7 +20,7 @@ return {
 	overlay1 = "#8087a2",
 	overlay0 = "#6e738d",
 	surface2 = "#661131", -- another dark lighter though burgandy
-	surface1 = "#494d64",
+	surface1 = "#E2CEB8", -- beige
 	surface0 = "#4C0C25", -- trying darkish burgandy for code border
 	base = "#33273B", -- backround for splits
 	mantle = "#330818", -- currently a Dark Burgandy colour
